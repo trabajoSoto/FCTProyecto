@@ -1,0 +1,39 @@
+.sidebar{
+	width:25vw; 
+	display:inline-block;
+}
+
+#dtable{
+		width: 90%;
+}
+
+.idni, .inombre, .icuota, .snombre, .sapellido, .stipo,{
+	width:1700px;
+}
+
+.eiduser, .enombre, .edni {
+	width: 5%;
+	text-align: left;
+}
+
+.esueldo {
+	width: 10%;
+	text-align: left;
+}
+
+.idede, .idboe, .tide, .tnome, .tdnie{
+	width: 5%;
+}
+
+.tsuele {
+	width: 10%;
+}
+
+#drtable, #dtablevr {
+	width:500px;
+}
+
+#calendar {
+	width: 90%;
+	height: 70%;
+}
